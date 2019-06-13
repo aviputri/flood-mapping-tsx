@@ -1,10 +1,15 @@
 HHVV/img
-HHVV/raw_img
+HHVV/isoclusterclass
+HHVV/isoclusterclasspoly
 HHVV/model
 HHVV/polygon
 HHVV/raster
+HHVV/raw_img
+HHVV/raw_img_hhvv_db
+HHVV/raw_img_k_db
+HHVV/seg_k_db
 HHHV/img
-HHHV/raw_img
 HHHV/model
 HHHV/polygon
 HHHV/raster
+HHHV/raw_img
